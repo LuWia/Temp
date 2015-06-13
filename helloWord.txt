@@ -1,0 +1,3 @@
+mthod2() {
+	System.out.println("nihao");
+}
